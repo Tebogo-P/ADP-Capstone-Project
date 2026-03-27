@@ -8,7 +8,7 @@
 | Ryan Paledi | 230969429 | |
 | Maghdie Petersen | 230600204 | |
 | Simphiwe | 221549323 | |
-| Inam Ngqokomashe | 222660155 | |
+| Inam Ngqokomashe | 222660155 | Supplier Entity|
 | Tebogo Pii | 230226442 | Warehouse Backend |
 
 ---
