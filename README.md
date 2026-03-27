@@ -4,11 +4,11 @@
 ## Team Members
 | Name | Student Number | Role/Focus |
 | :--- | :--- | :--- |
-| Siphamandla | 240256891 | |
-| Ryan Paledi | 230969429 | |
-| Maghdie Petersen | 230600204 | |
-| Simphiwe | 221549323 | |
-| Inam Ngqokomashe | 222660155 | Supplier Entity|
+| Siphamandla | 240256891 |Customer |
+| Ryan Paledi | 230969429 |CustomerOrder |
+| Maghdie Petersen | 230600204 |ProductDomain |
+| Simphiwe | 221549323 |Shipment |
+| Inam Ngqokomashe | 222660155 | Supplier |
 | Tebogo Pii | 230226442 | Warehouse Backend |
 
 ---
